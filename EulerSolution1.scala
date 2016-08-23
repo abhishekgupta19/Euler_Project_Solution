@@ -1,5 +1,5 @@
 /*
-  Sum of Natural Number below 10 which are
+  Sum of Natural Number below 1000 which are
   multiple by 3 or 5
 
  */
@@ -18,6 +18,6 @@ object EulerSolution1 extends App{
       s = s + i
     }
 
-    println("sum of natural number below 10 which are multiple by 3 or 5\n" + s)
+    println("sum of natural number below 1000 which are multiple by 3 or 5\n" + s)
   }
 }
