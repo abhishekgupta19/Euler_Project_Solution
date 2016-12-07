@@ -1,3 +1,9 @@
+package scala;
+
+/* Sum of Natural Number below 1000 which are
+   multiple by 3 or 5 */
+
+
 object EulerSolution1 extends App{
 
   euler_solution1()
